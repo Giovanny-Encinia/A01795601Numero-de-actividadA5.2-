@@ -1,0 +1,2 @@
+2025-02-06 21:33:20,442 - ERROR - Error de tipo de dato en la venta: {'SALE_ID': 6, 'SALE_Date': '01/12/23', 'Product': 'Elotes', 'Quantity': 100}
+2025-02-06 21:33:20,442 - ERROR - Error de tipo de dato en la venta: {'SALE_ID': 9, 'SALE_Date': '02/12/23', 'Product': 'Frijoles', 'Quantity': 100}
